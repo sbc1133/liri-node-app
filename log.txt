@@ -1,0 +1,18 @@
+movie-this	samurai
+	Title : Samurai
+	Year: 2002
+	Movie rating : 3.3
+	Country : Spain, France, Germany
+	Language : French, Japanese
+	Plot : Half a century ago, a Japanese family summoned a demon known as Kodeni to dispose of its adversaries. Once the killing was done, the family was cursed. Now, Tokyo Police Inspector Fujiwara ...
+	Actors : Cyril Mourali, Maï Anh Le, Yasuaki Kurata, Saïd Serrari
+spotify-this-song	hello
+	track Name : Hello
+	Artist name : Adele
+	Album Name : 25
+	Preview link: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+spotify-this-song	undefined
+		 command argument missing, default value will be used	track Name : I Want It That Way
+	Artist name : Backstreet Boys
+	Album Name : The Hits--Chapter One
+	Preview link: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
