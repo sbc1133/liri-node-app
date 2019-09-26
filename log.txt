@@ -1,3 +1,4 @@
+
 movie-this	samurai
 	Title : Samurai
 	Year: 2002
@@ -16,3 +17,21 @@ spotify-this-song	undefined
 	Artist name : Backstreet Boys
 	Album Name : The Hits--Chapter One
 	Preview link: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+spotify-this-song	hello
+	track Name : Hello
+	Artist name : Adele
+	Album Name : 25
+	Preview link: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+spotify-this-song	hello
+	track Name : Hello
+	Artist name : Adele
+	Album Name : 25
+	Preview link: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+movie-this	scorpion
+	Title : Scorpion
+	Year: 2014–2018
+	Movie rating : 7.1
+	Country : USA
+	Language : English
+	Plot : An eccentric genius forms an international network of super-geniuses to act as the last line of defense against the complicated threats of the modern world.
+	Actors : Elyes Gabel, Katharine McPhee, Eddie Kaye Thomas, Jadyn Wong

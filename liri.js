@@ -1,7 +1,7 @@
 
 const fs = require('fs');
 const util = require("util");
-const writeFile = util.promisify(fs.appendFile);
+
 require("dotenv").config();
 var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
