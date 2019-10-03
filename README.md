@@ -6,3 +6,22 @@ It understands follwing commands:
   2. movie-this   movie_name
   
 Bonus criteria : Liri appends all queries and response to log.txt file 
+
+# Technologies Utilized
+* NodeJS
+* JavaScript
+* Spotify API
+* Twitter API
+* OMDB API
+* NPM simple-node-logger
+* NPM spotify-web-api-node
+* NPM dotenv
+* NPM twitter
+* NPM request
+* Author
+* Steve Walker
+
+# Deployment
+* Clone repo
+* Run npm install
+* At command prompt run node liri.js <pass in an instruction from above>
